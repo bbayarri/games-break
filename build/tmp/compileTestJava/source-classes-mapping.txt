@@ -1,0 +1,8 @@
+repositories/UsersRepositoryTest.java
+ repositories.UsersRepositoryTest
+repositories/PurchasesRepositoryTest.java
+ repositories.PurchasesRepositoryTest
+repositories/GamesRepositoryTest.java
+ repositories.GamesRepositoryTest
+utils/PriceCalculatorTest.java
+ utils.PriceCalculatorTest
